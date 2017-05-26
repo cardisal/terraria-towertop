@@ -1,0 +1,10 @@
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\bin\Debug\towertop.dll
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\bin\Debug\towertop.pdb
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\bin\Debug\Terraria.exe
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\obj\Debug\towertop.csprojResolveAssemblyReference.cache
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\obj\Debug\towertop.dll
+C:\Users\ClashofStreams\Documents\My Games\Terraria\ModLoader\Mod Sources\towertop\obj\Debug\towertop.pdb
